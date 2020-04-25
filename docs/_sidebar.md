@@ -3,7 +3,7 @@
     * [Installing Konnek for AWS](/getting-started/installing-konnek-for-aws.md)
         * [Serverless Framework](/getting-started/installing-konnek-for-aws-serverless-framework.md)
         * [CLI](/getting-started/installing-konnek-for-aws-cli.md)
-    * [Installing Konnek for GCP (coming soon!)](/oming-soon.md)
+    * [Installing Konnek for GCP (coming soon!)](/coming-soon.md)
     * [Installing Konnek for Azure (coming soon!)](/coming-soon.md)
 * Integrations
     * [Knative](/integrations/knative.md)
