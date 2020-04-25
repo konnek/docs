@@ -9,3 +9,4 @@
     * [Knative](/integrations/knative.md)
 * Supported Events
     * [AWS](/supported-events/aws.md)
+* [Logo](/logo.md)
