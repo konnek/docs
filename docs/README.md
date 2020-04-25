@@ -10,4 +10,4 @@ Konnek is a very simple piece of software and infrastructure, it generally works
 - Setting up the `KONNEK_CONSUMER` environment variable to the address you would like to receive the events
 - Profit!
 
-Made with ❤️ by [jonatasbaldin](https://twitter.com/jonatasbaldin)
+Made with ❤️ by [jojo](https://twitter.com/jonatasbaldin).
