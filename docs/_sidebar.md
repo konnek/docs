@@ -9,4 +9,3 @@
     * [Knative](/integrations/knative.md)
 * Supported Events
     * [AWS](/supported-events/aws.md)
-    * [GCP](/supported-events/gcp.md)
