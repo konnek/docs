@@ -15,4 +15,4 @@ ngrok http 8080
 Note down your ngrok HTTPS address (something like `https://xxxxxxxx.ngrok.io`) for the next step.
 
 ## Receive the Events!
-Now that you have a local consumer, try receiving events from [AWS](getting-started/installing-konnek-for-aws.md).
+Now that you have a local consumer, try receiving events from [AWS](getting-started/installing-konnek-for-aws.md) or [GCP](getting-started/installing-konnek-for-gcp.md).
