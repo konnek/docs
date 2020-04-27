@@ -35,7 +35,10 @@ aws lambda create-function \
     --role arn:aws:iam::<id>:role/konnek-lambda-role
 ```
 
-To test, get a SQS mock data file:
+## Testing
+To test locally, make sure the [local consumer](/getting-started/setting-up-local-consumer.md) is up and running.
+
+Get a SQS mock data file:
 ```bash
 wget https://raw.githubusercontent.com/konnek/konnek-aws/master/testdata/sqs.json
 ```

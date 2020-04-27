@@ -17,6 +17,9 @@ Set the `KONNEK_CONSUMER` environment variable to the CloudEvents server address
 KONNEK_CONSUMER="https://xxxxxxxx.ngrok.io" serverless deploy
 ```
 
+## Testing
+To test locally, make sure the [local consumer](/getting-started/setting-up-local-consumer.md) is up and running.
+
 Get a SQS mock data file:
 ```bash
 wget https://raw.githubusercontent.com/konnek/konnek-aws/master/testdata/sqs.json
