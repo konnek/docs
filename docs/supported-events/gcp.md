@@ -1,4 +1,5 @@
 # Supported Events in GCP
+Konnek for GCP _should_ support all events, but these are the ones tested:
 
 - google.pubsub.topic.publish                     
 - providers/cloud.pubsub/eventTypes/topic.publish 
