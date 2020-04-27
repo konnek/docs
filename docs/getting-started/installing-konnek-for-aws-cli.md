@@ -4,7 +4,7 @@ Make sure you have the AWS CLI [installed](https://docs.aws.amazon.com/cli/lates
 
 Get Konnek latest version:
 ```bash
-wget https://github.com/konnek/konnek-aws/releases/download/v0.0.2/konnek-aws-0.0.2.zip -O konnek.zip
+wget https://github.com/konnek/konnek-aws/releases/download/v0.0.3/konnek-aws-v0.0.3.zip -O konnek.zip
 ```
 
 Get a basic AWS Role template for the Lambda:

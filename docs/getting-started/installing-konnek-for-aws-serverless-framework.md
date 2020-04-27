@@ -4,7 +4,7 @@ Make sure you have the Serverless Framework [installed](https://serverless.com/f
 
 First, get the latest Konnek version:
 ```bash
-wget https://github.com/konnek/konnek-aws/releases/download/v0.0.2/konnek-aws-0.0.2.zip -O konnek.zip
+wget https://github.com/konnek/konnek-aws/releases/download/v0.0.3/konnek-aws-v0.0.3.zip -O konnek.zip
 ```
 
 Get the official Konnek `serverless.yml` file: 
