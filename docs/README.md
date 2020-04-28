@@ -1,5 +1,5 @@
 # Konnek
-Konnek retrieves events from cloud platforms – like AWS and GCP –, transform them into [CloudEvents](https://cloudevents.io/) and send to whenever you want.
+Konnek retrieves events from cloud platforms – like AWS and GCP –, transform them into [CloudEvents](https://cloudevents.io/) and send anywhere!
 
 Try it out now by [receiving events in your own local machine](getting-started/setting-up-local-consumer.md).
 
